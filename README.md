@@ -7,7 +7,7 @@ My journey through the [KodeKloud 100 Days of Cloud Challenge - Azure](https://k
 | 1 | [Create SSH Key Pair for Azure Virtual Machine](./days/1.md) | ✅ |
 | 2 | [Create an Azure Virtual Machine](./days/2.md) | ✅ |
 | 3 | [Create VM using Azure CLI](./days/3.md) | ✅ |
-| 4 | Create a Virtual Network (VNet) in Azure | ☐ |
+| 4 | [Create a Virtual Network (VNet) in Azure](./days/4.md) | ✅ |
 | 5 | Create a Virtual Network (IPv4) in Azure | ☐ |
 | 6 | Create a Subnet in Azure Virtual Network | ☐ |
 | 7 | Create a Public IP Address for Azure VM | ☐ |
