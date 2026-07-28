@@ -9,7 +9,7 @@ My journey through the [KodeKloud 100 Days of Cloud Challenge - Azure](https://k
 | 3 | [Create VM using Azure CLI](./days/3.md) | ✅ |
 | 4 | [Create a Virtual Network (VNet) in Azure](./days/4.md) | ✅ |
 | 5 | [Create a Virtual Network (IPv4) in Azure](./days/5.md) | ✅ |
-| 6 | Create a Subnet in Azure Virtual Network | ☐ |
+| 6 | [Create a Subnet in Azure Virtual Network](./days/6.md) | ✅ |
 | 7 | Create a Public IP Address for Azure VM | ☐ |
 | 8 | Attach Managed Disk to Azure Virtual Machine | ☐ |
 | 9 | Attach Network Interface Card (NIC) to Azure Virtual Machine | ☐ |
