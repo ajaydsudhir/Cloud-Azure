@@ -12,7 +12,7 @@ My journey through the [KodeKloud 100 Days of Cloud Challenge - Azure](https://k
 | 6 | [Create a Subnet in Azure Virtual Network](./days/6.md) | ✅ |
 | 7 | [Create a Public IP Address for Azure VM](./days/7.md) | ✅ |
 | 8 | [Attach Managed Disk to Azure Virtual Machine](./days/8.md) | ✅ |
-| 9 | Attach Network Interface Card (NIC) to Azure Virtual Machine | ☐ |
+| 9 | [Attach Network Interface Card (NIC) to Azure Virtual Machine](./days/9.md) | ✅ |
 | 10 | Attach Public IP to Azure Virtual Machine | ☐ |
 | 11 | Change Azure Virtual Machine Size Using Console | ☐ |
 | 12 | Add and Manage Tags for Azure Virtual Machines | ☐ |
