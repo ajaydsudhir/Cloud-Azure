@@ -14,7 +14,7 @@ My journey through the [KodeKloud 100 Days of Cloud Challenge - Azure](https://k
 | 8 | [Attach Managed Disk to Azure Virtual Machine](./days/8.md) | ✅ |
 | 9 | [Attach Network Interface Card (NIC) to Azure Virtual Machine](./days/9.md) | ✅ |
 | 10 | [Attach Public IP to Azure Virtual Machine](./days/10.md) | ✅ |
-| 11 | Change Azure Virtual Machine Size Using Console | ☐ |
+| 11 | [Change Azure Virtual Machine Size Using Console](./days/11.md) | ✅ |
 | 12 | Add and Manage Tags for Azure Virtual Machines | ☐ |
 | 13 | SSH into an Azure Virtual Machine | ☐ |
 | 14 | Create and Attach Managed Disks in Azure | ☐ |
