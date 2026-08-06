@@ -16,7 +16,7 @@ My journey through the [KodeKloud 100 Days of Cloud Challenge - Azure](https://k
 | 10 | [Attach Public IP to Azure Virtual Machine](./days/10.md) | ✅ |
 | 11 | [Change Azure Virtual Machine Size Using Console](./days/11.md) | ✅ |
 | 12 | [Add and Manage Tags for Azure Virtual Machines](./days/12.md) | ✅ |
-| 13 | SSH into an Azure Virtual Machine | ☐ |
+| 13 | [SSH into an Azure Virtual Machine](./days/13.md) | ✅ |
 | 14 | Create and Attach Managed Disks in Azure | ☐ |
 | 15 | Create and Configure Network Security Group (NSG) in Azure | ☐ |
 | 16 | Create a Private Azure Blob Storage Container | ☐ |
