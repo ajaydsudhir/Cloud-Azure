@@ -19,7 +19,7 @@ My journey through the [KodeKloud 100 Days of Cloud Challenge - Azure](https://k
 | 13 | [SSH into an Azure Virtual Machine](./days/13.md) | ✅ |
 | 14 | [Create and Attach Managed Disks in Azure](./days/14.md) | ✅ |
 | 15 | [Create and Configure Network Security Group (NSG) in Azure](./days/15.md) | ✅ |
-| 16 | Create a Private Azure Blob Storage Container | ☐ |
+| 16 | [Create a Private Azure Blob Storage Container](./days/16.md) | ✅ |
 | 17 | Create a Public Azure Blob Storage Container | ☐ |
 | 18 | Copy Data to an Azure Blob Storage Container | ☐ |
 | 19 | Convert Public Azure Blob Container to Private | ☐ |
