@@ -21,7 +21,7 @@ My journey through the [KodeKloud 100 Days of Cloud Challenge - Azure](https://k
 | 15 | [Create and Configure Network Security Group (NSG) in Azure](./days/15.md) | ✅ |
 | 16 | [Create a Private Azure Blob Storage Container](./days/16.md) | ✅ |
 | 17 | [Create a Public Azure Blob Storage Container](./days/17.md) | ✅ |
-| 18 | Copy Data to an Azure Blob Storage Container | ☐ |
+| 18 | [Copy Data to an Azure Blob Storage Container](./days/18.md) | ✅ |
 | 19 | Convert Public Azure Blob Container to Private | ☐ |
 | 20 | Deploy Azure Resources Using ARM Template | ☐ |
 | 21 | Assigning Public IP to Virtual Machines | ☐ |
