@@ -26,7 +26,7 @@ My journey through the [KodeKloud 100 Days of Cloud Challenge - Azure](https://k
 | 20 | [Deploy Azure Resources Using ARM Template](./days/20.md) | ✅ |
 | 21 | [Assigning Public IP to Virtual Machines](./days/21.md) | ✅ |
 | 22 | [Configuring Instances with User Data](./days/22.md) | ✅ |
-| 23 | Automating User Data Configuration Using the CLI | ☐ |
+| 23 | [Automating User Data Configuration Using the CLI](./days/23.md) | ✅ |
 | 24 | Securing Virtual Machine SSH Access | ☐ |
 | 25 | Expanding and Managing Disk Storage | ☐ |
 | 26 | Deploying Virtual Machines in a Public Virtual Network | ☐ |
