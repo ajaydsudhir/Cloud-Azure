@@ -30,7 +30,7 @@ My journey through the [KodeKloud 100 Days of Cloud Challenge - Azure](https://k
 | 24 | [Securing Virtual Machine SSH Access](./days/24.md) | ✅ |
 | 25 | [Expanding and Managing Disk Storage](./days/25.md) | ✅ |
 | 26 | [Deploying Virtual Machines in a Public Virtual Network](./days/26.md) | ✅ |
-| 27 | Deploying Virtual Machines in a Private Virtual Network | ☐ |
+| 27 | [Deploying Virtual Machines in a Private Virtual Network](./days/27.md) | ✅ |
 | 28 | Troubleshooting Public Virtual Network Configurations | ☐ |
 | 29 | Working with Azure Container Registry (ACR) | ☐ |
 | 30 | Create Azure SQL Database | ☐ |
