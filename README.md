@@ -32,7 +32,7 @@ My journey through the [KodeKloud 100 Days of Cloud Challenge - Azure](https://k
 | 26 | [Deploying Virtual Machines in a Public Virtual Network](./days/26.md) | ✅ |
 | 27 | [Deploying Virtual Machines in a Private Virtual Network](./days/27.md) | ✅ |
 | 28 | [Troubleshooting Public Virtual Network Configurations](./days/28.md) | ✅ |
-| 29 | Working with Azure Container Registry (ACR) | ☐ |
+| 29 | [Working with Azure Container Registry (ACR)](./days/29.md) | ✅ |
 | 30 | Create Azure SQL Database | ☐ |
 | 31 | Deploying and Managing a Web Application | ☐ |
 | 32 | Synchronizing Containers Using the CLI | ☐ |
