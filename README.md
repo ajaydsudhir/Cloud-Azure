@@ -35,7 +35,7 @@ My journey through the [KodeKloud 100 Days of Cloud Challenge - Azure](https://k
 | 29 | [Working with Azure Container Registry (ACR)](./days/29.md) | ✅ |
 | 30 | [Create Azure SQL Database](./days/30.md) | ✅ |
 | 31 | [Deploying and Managing a Web Application](./days/31.md) | ✅ |
-| 32 | Synchronizing Containers Using the CLI | ☐ |
+| 32 | [Synchronizing Containers Using the CLI](./days/32.md) | ✅ |
 | 33 | Integrating Virtual Machines with Application Load Balancer | ☐ |
 | 34 | Enabling Internet Connectivity for Virtual Machines | ☐ |
 | 35 | Configuring Virtual Network Peering | ☐ |
