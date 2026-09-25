@@ -36,7 +36,7 @@ My journey through the [KodeKloud 100 Days of Cloud Challenge - Azure](https://k
 | 30 | [Create Azure SQL Database](./days/30.md) | ✅ |
 | 31 | [Deploying and Managing a Web Application](./days/31.md) | ✅ |
 | 32 | [Synchronizing Containers Using the CLI](./days/32.md) | ✅ |
-| 33 | Integrating Virtual Machines with Application Load Balancer | ☐ |
+| 33 | [Integrating Virtual Machines with Application Load Balancer](./days/33.md) | ✅ |
 | 34 | Enabling Internet Connectivity for Virtual Machines | ☐ |
 | 35 | Configuring Virtual Network Peering | ☐ |
 | 36 | Managing Storage Lifecycle in Azure | ☐ |
