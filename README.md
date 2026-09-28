@@ -38,7 +38,7 @@ My journey through the [KodeKloud 100 Days of Cloud Challenge - Azure](https://k
 | 32 | [Synchronizing Containers Using the CLI](./days/32.md) | ✅ |
 | 33 | [Integrating Virtual Machines with Application Load Balancer](./days/33.md) | ✅ |
 | 34 | [Enabling Internet Connectivity for Virtual Machines](./days/34.md) | ✅ |
-| 35 | Configuring Virtual Network Peering | ☐ |
+| 35 | [Configuring Virtual Network Peering](./days/35.md) | ✅ |
 | 36 | Managing Storage Lifecycle in Azure | ☐ |
 | 37 | Setting Up MySQL on a Virtual Machine in Azure | ☐ |
 | 38 | Running Containers on Azure Virtual Machines | ☐ |
