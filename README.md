@@ -42,7 +42,7 @@ My journey through the [KodeKloud 100 Days of Cloud Challenge - Azure](https://k
 | 36 | [Managing Storage Lifecycle in Azure](./days/36.md) | ✅ |
 | 37 | [Setting Up MySQL on a Virtual Machine in Azure](./days/37.md) | ✅ |
 | 38 | [Running Containers on Azure Virtual Machines](./days/38.md) | ✅ |
-| 39 | Deploying a Static Website Using Containers on Azure | ☐ |
+| 39 | [Deploying a Static Website Using Containers on Azure](./days/39.md) | ✅ |
 | 40 | Managing Secrets with Azure Key Vault | ☐ |
 | 41 | Working with Azure Table Storage | ☐ |
 | 42 | Backup and Delete Azure Storage Blob Container | ☐ |
