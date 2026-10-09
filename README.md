@@ -45,7 +45,7 @@ My journey through the [KodeKloud 100 Days of Cloud Challenge - Azure](https://k
 | 39 | [Deploying a Static Website Using Containers on Azure](./days/39.md) | ✅ |
 | 40 | [Managing Secrets with Azure Key Vault](./days/40.md) | ✅ |
 | 41 | [Working with Azure Table Storage](./days/41.md) | ✅ |
-| 42 | Backup and Delete Azure Storage Blob Container | ☐ |
+| 42 | [Backup and Delete Azure Storage Blob Container](./days/42.md) | ✅ |
 | 43 | Configuring Azure VM with Application Gateway | ☐ |
 | 44 | Integrating Azure Event Hub with Virtual Machines | ☐ |
 | 45 | Azure Kubernetes Service (AKS) Setup and Management | ☐ |
