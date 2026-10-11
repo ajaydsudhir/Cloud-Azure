@@ -47,7 +47,7 @@ My journey through the [KodeKloud 100 Days of Cloud Challenge - Azure](https://k
 | 41 | [Working with Azure Table Storage](./days/41.md) | ✅ |
 | 42 | [Backup and Delete Azure Storage Blob Container](./days/42.md) | ✅ |
 | 43 | [Configuring Azure VM with Application Gateway](./days/43.md) | ✅ |
-| 44 | Integrating Azure Event Hub with Virtual Machines | ☐ |
+| 44 | [Integrating Azure Event Hub with Virtual Machines](./days/44.md) | ✅ |
 | 45 | Azure Kubernetes Service (AKS) Setup and Management | ☐ |
 | 46 | EventHub to Blob Storage Integration Setup | ☐ |
 | 47 | SQL Database Migration and Setup | ☐ |
