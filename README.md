@@ -50,7 +50,7 @@ My journey through the [KodeKloud 100 Days of Cloud Challenge - Azure](https://k
 | 44 | [Integrating Azure Event Hub with Virtual Machines](./days/44.md) | ✅ |
 | 45 | [Azure Kubernetes Service (AKS) Setup and Management](./days/45.md) | ✅ |
 | 46 | [EventHub to Blob Storage Integration Setup](./days/46.md) | ✅ |
-| 47 | SQL Database Migration and Setup | ☐ |
+| 47 | [SQL Database Migration and Setup](./days/47.md) | ✅ |
 | 48 | VM and ACR Integration for Storage | ☐ |
 | 49 | VM Setup with Web Storage Integration | ☐ |
 | 50 | VM Setup and Configuration for Azure Application Gateway | ☐ |
