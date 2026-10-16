@@ -52,5 +52,5 @@ My journey through the [KodeKloud 100 Days of Cloud Challenge - Azure](https://k
 | 46 | [EventHub to Blob Storage Integration Setup](./days/46.md) | ✅ |
 | 47 | [SQL Database Migration and Setup](./days/47.md) | ✅ |
 | 48 | [VM and ACR Integration for Storage](./days/48.md) | ✅ |
-| 49 | VM Setup with Web Storage Integration | ☐ |
+| 49 | [VM Setup with Web Storage Integration](./days/49.md) | ✅ |
 | 50 | VM Setup and Configuration for Azure Application Gateway | ☐ |
