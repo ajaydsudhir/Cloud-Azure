@@ -2,7 +2,9 @@
 
 My journey through the [KodeKloud 100 Days of Cloud Challenge - Azure](https://kodekloud.com/100-days-of-cloud) with 50 hands-on tasks covering the fundamentals of Azure cloud computing.
 
-| DAY | TASK | STATUS |
+![AJAY D SUDHIR - 50 Days of Azure](AJAY_D_SUDHIR_50_Days_of_Azure.jpg)
+
+| **DAY** | **TASK** | **STATUS** |
 | :-: | :-: | :-: |
 | 1 | [Create SSH Key Pair for Azure Virtual Machine](./days/1.md) | ✅ |
 | 2 | [Create an Azure Virtual Machine](./days/2.md) | ✅ |
